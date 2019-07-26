@@ -1,0 +1,42 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Acme', sans-serif;
+}
+
+body {
+	background-image: url("../img/wallpaper.jpg");
+}
+
+#main {
+	padding-top: 20px;
+}
+
+img {
+	padding: 0px;
+	width:600px;
+	height:700px;
+	display: block;
+}
+
+#buscarPagina {
+	text-align: center;
+}
+
+#panelBusqueda {
+	background: brown;
+	width:400px;
+	margin: auto;
+	margin-bottom: 20px; 
+	padding:10px; 
+	border-radius: 20px;
+	color: white;
+}
+
+label, input {
+	font-size: 22px;
+}
+
+input{
+	margin-left: 10px;
+}
